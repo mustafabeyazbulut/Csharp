@@ -13,14 +13,12 @@ namespace ConsoleApp1
                 d[i] = r.Next(1, 2000);
 
             }
-            diziBilgiYaz(d);
-            Console.WriteLine();
-            diziEkranaYaz(d);
-            Console.WriteLine();
-            BubbleSort(d);
             diziEkranaYaz(d);
             Console.WriteLine();
 
+            SelectionSort(d);
+            diziEkranaYaz(d);
+            Console.WriteLine();
 
 
         }
@@ -36,7 +34,8 @@ namespace ConsoleApp1
         }
         static void BubbleSort(int[] dizi)
         {
-            for(int n = dizi.Length; 0 < n; n--) // n değişkenine dizinin uzunluğu atandı. Sıralama sonu en büyük eleman sona geleceği için tekrardan o elemanı kontrol etmesine gerek olmadığı için n-- olarak döngü sağlandı
+            //Kucukten Buyuge Bubble Sort sıralama
+            for (int n = dizi.Length; 0 < n; n--) // n değişkenine dizinin uzunluğu atandı. Sıralama sonu en büyük eleman sona geleceği için tekrardan o elemanı kontrol etmesine gerek olmadığı için n-- olarak döngü sağlandı
                 for (int i=0;i<n-1;i++) //n-1 e kadar olmasının sebebi son eleman için tekrardan kontrol yapmasını engellemek için
                     if (dizi[i] > dizi[i + 1])
                     {
@@ -45,6 +44,24 @@ namespace ConsoleApp1
                         dizi[i] = temp;
                     }
 
+
+        }
+
+        static void SelectionSort(int[] dizi)
+        {
+            //Kucukten Buyuge Selection Sort sıralama
+            for (int i = 0; i < dizi.Length - 1; i++)
+            {
+                int minIndex = i;
+                for (int j = i+1; j < dizi.Length; j++)
+                    if (dizi[minIndex] > dizi[j])
+                        minIndex = j ;
+                int temp = dizi[i];
+                dizi[i] = dizi[minIndex];
+                dizi[minIndex] = temp;
+            }
+
+ 
 
         }
 
