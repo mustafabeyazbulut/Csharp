@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="1.Bos.cs" />
+    <Compile Remove="ArraylistKullanimi.cs" />
+    <Compile Remove="DictionaryKullanimi.cs" />
+    <Compile Remove="DizideIslemler.cs" />
+    <Compile Remove="DiziTanimlama.cs" />
+    <Compile Remove="EkranaSayiGirmekYazdirmak.cs" />
+    <Compile Remove="NormalveRecorsiveFonksMatislemleri - Kopyala.cs" />
+    <Compile Remove="RastgeleSayi.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="1.Bos.cs" />
+    <None Include="ArraylistKullanimi.cs" />
+    <None Include="DictionaryKullanimi.cs" />
+    <None Include="DizideIslemler.cs" />
+    <None Include="DiziTanimlama.cs" />
+    <None Include="EkranaSayiGirmekYazdirmak.cs" />
+    <None Include="NormalveRecorsiveFonksMatislemleri - Kopyala.cs" />
+    <None Include="RastgeleSayi.cs" />
+  </ItemGroup>
+
+</Project>
