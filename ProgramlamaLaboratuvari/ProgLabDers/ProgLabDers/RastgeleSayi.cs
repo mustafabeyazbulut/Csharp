@@ -14,13 +14,39 @@ namespace ConsoleApp1
             //Array.Reverse(dizi); //büyükten küçüğe
             //Console.WriteLine("Hello World!");
 
-            Random r = new Random();
-            for (int i = 0; i < 10; i++)
-            {        
-                int rastgele = r.Next(1,20);
-                Console.WriteLine("Rastgele Sayı :" + rastgele);
+            
+            Console.WriteLine("Rastgele sayı sınırı tavan değerini giriniz: ");
+            int a = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Kaç sayı çekilecek giriniz: ");
+            int b = Convert.ToInt32(Console.ReadLine());
+
+            if (a < b) Console.WriteLine("Aralık Hatası ");
+            else
+            {
+                int[] sayi = new int[a];
+                for (int i = 0; i < a; i++)
+                    sayi[i] = i;
+
+                Random r = new Random();
+
+                int boyut = sayi.Length;
+                for(int i = 0; i < b; i++)
+                {
+                    int n = r.Next(boyut);
+                    Console.WriteLine("Rastgele Sayı =" + sayi[n]);
+                    for (int j = n; j < boyut - 1; j++)
+                        sayi[j] = sayi[j + 1];
+
+                    boyut--;
+                }
+
+
             }
-            Console.ReadKey();
+
+            
+
+
            
         }
     }
