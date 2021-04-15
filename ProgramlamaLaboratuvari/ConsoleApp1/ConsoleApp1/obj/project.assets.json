@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mustafa\\Desktop\\Dersler\\ProgramlamaLaboratuvarı\\Projeler\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\mustafa\\Documents\\GitHub\\Csharp\\ProgramlamaLaboratuvari\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\mustafa\\Desktop\\Dersler\\ProgramlamaLaboratuvarı\\Projeler\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Users\\mustafa\\Documents\\GitHub\\Csharp\\ProgramlamaLaboratuvari\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\mustafa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mustafa\\Desktop\\Dersler\\ProgramlamaLaboratuvarı\\Projeler\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\mustafa\\Documents\\GitHub\\Csharp\\ProgramlamaLaboratuvari\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
