@@ -15,10 +15,10 @@ namespace ConsoleApp1
             //Console.WriteLine("Hello World!");
 
             
-            Console.WriteLine("Rastgele sayı sınırı tavan değerini giriniz: ");
+            Console.Write("Rastgele sayı sınırı tavan değerini giriniz: ");
             int a = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Kaç sayı çekilecek giriniz: ");
+            Console.Write("Kaç sayı çekilecek giriniz: ");
             int b = Convert.ToInt32(Console.ReadLine());
 
             if (a < b) Console.WriteLine("Aralık Hatası ");
