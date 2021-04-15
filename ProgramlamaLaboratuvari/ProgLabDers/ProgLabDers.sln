@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgLabDers", "ProgLabDers\ProgLabDers.csproj", "{E067C51D-6E25-42DB-B651-AB788BA9614A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E067C51D-6E25-42DB-B651-AB788BA9614A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E067C51D-6E25-42DB-B651-AB788BA9614A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E067C51D-6E25-42DB-B651-AB788BA9614A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E067C51D-6E25-42DB-B651-AB788BA9614A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3817F956-FC01-4852-AA1C-7B44E9C898E7}
+	EndGlobalSection
+EndGlobal

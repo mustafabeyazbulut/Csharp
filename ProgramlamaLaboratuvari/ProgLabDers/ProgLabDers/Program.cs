@@ -1,16 +1,12 @@
 ﻿using System;
 
-namespace ConsoleApp1
+namespace ProgLabDers
 {
-    class Bos
+    class Program
     {
         static void Main(string[] args)
         {
-           
-
+            Console.WriteLine("Hello World!");d
         }
-       
-
     }
-     
 }
