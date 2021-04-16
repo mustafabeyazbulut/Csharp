@@ -7,8 +7,8 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             //fib,fak,pow,norep rand
-    
-            us_giris();
+
+            fib_giris();
 
         }
         static void us_giris()
