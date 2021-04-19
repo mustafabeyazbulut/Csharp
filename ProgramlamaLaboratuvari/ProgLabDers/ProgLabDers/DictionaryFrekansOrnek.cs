@@ -9,8 +9,8 @@ namespace DictionaryFrekansOrnek
         static void Main(string[] args)
         {
             int[] dizi = { 2, 2, 3,3, 4, 5, 5, 66, 66,3, 66, 75, 75, 75, 75, 75, 4, 6, 7, 8, 3, 7, 0 };
-            ArrayList alist = new ArrayList() { 2, 2, 3, 4, 5, 5, 66, 66, 66, 75, 75, 75, 75, 75, 4, 6, 7, 8, 3, 7, 0 };
-            List<int> llist= new List<int>() { 2, 2, 3, 4, 5, 5, 66, 66, 66, 75, 75, 75, 75, 75, 4, 6, 7, 8, 3, 7, 0 };
+           // ArrayList alist = new ArrayList() { 2, 2, 3, 4, 5, 5, 66, 66, 66, 75, 75, 75, 75, 75, 4, 6, 7, 8, 3, 7, 0 };
+           // List<int> llist= new List<int>() { 2, 2, 3, 4, 5, 5, 66, 66, 66, 75, 75, 75, 75, 75, 4, 6, 7, 8, 3, 7, 0 };
 
             Dictionary<int, int> frekansListesi = frekans(dizi);
 

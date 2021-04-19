@@ -8,6 +8,7 @@
   <ItemGroup>
     <Compile Remove="1-Bos.cs" />
     <Compile Remove="ArraylistKullanimi.cs" />
+    <Compile Remove="DictionaryFrekansOrnek.cs" />
     <Compile Remove="DictionaryKullanimi.cs" />
     <Compile Remove="DizideIslemler.cs" />
     <Compile Remove="DiziTanimlama.cs" />
@@ -19,6 +20,7 @@
   <ItemGroup>
     <None Include="1-Bos.cs" />
     <None Include="ArraylistKullanimi.cs" />
+    <None Include="DictionaryFrekansOrnek.cs" />
     <None Include="DictionaryKullanimi.cs" />
     <None Include="DizideIslemler.cs" />
     <None Include="DiziTanimlama.cs" />
