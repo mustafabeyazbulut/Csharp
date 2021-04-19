@@ -12,6 +12,7 @@
     <Compile Remove="DizideIslemler.cs" />
     <Compile Remove="DiziTanimlama.cs" />
     <Compile Remove="EkranaSayiGirmekYazdirmak.cs" />
+    <Compile Remove="NormalveRecorsiveFonksMatislemleri.cs" />
     <Compile Remove="RastgeleSayi.cs" />
   </ItemGroup>
 
@@ -22,6 +23,7 @@
     <None Include="DizideIslemler.cs" />
     <None Include="DiziTanimlama.cs" />
     <None Include="EkranaSayiGirmekYazdirmak.cs" />
+    <None Include="NormalveRecorsiveFonksMatislemleri.cs" />
     <None Include="RastgeleSayi.cs" />
   </ItemGroup>
 
