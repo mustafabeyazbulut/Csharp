@@ -6,8 +6,8 @@ namespace MatrislerdeIslemler
     {
         static void Main(string[] args)
         {
-            int[,] a = new int[4, 5];
-            int[,] b = new int[5, 5];
+            int[,] a = new int[4, 2];
+            int[,] b = new int[2, 3];
 
 
             matrisRastgeleDegerAta(a);
@@ -19,14 +19,9 @@ namespace MatrislerdeIslemler
             Console.WriteLine("\n-----B Matrisi-----");
             matrisListele(b);
 
-            Console.WriteLine("\n-----Matris Toplamı-----");
-            int[,] c = matrisToplam(a, b);
-            matrisListele(c);
-
-            matrisScalerCarpim(a, 5);
-            Console.WriteLine("\n-----Matris Scaler Çarpım-----");
-            matrisListele(a);
-
+            Console.WriteLine("\n-----Matris Çarpımı-----");
+            int[,] d= ikiMatrisCarpim(a, b);
+            matrisListele(d);
 
 
         }
@@ -70,5 +65,30 @@ namespace MatrislerdeIslemler
                 for (int j = 0; j < matris.GetLength(1); j++)
                     matris[i, j] = b * matris[i, j];
         }
+        static int [,] ikiMatrisCarpim(int[,] a, int[,] b)
+        {
+            if (a.GetLength(1) == b.GetLength(0))
+            {
+                int[,] c = new int[a.GetLength(0), b.GetLength(1)]; //2 3 matris ile 3-5 matris yeni boyut 2-5 olur.
+                for (int i = 0; i < c.GetLength(0); i++) 
+                {
+                    for (int j = 0; j < c.GetLength(1); j++)
+                    {
+                        c[i, j] = 0;
+                        for (int k = 0; k< a.GetLength(1); k++)
+                            c[i, j] += a[i, k] * b[k,j];
+                    }
+                }
+                return c;
+            }
+            else
+            {
+                Console.WriteLine("Boyut Hatası Çarpılamaz");
+                return new int[0, 0];
+            }
+
+           
+        }
+
     }
 }
