@@ -9,10 +9,8 @@ namespace MatrislerdeIslemler
             int[,] a = new int[4, 2];
             int[,] b = new int[2, 3];
 
-
             matrisRastgeleDegerAta(a);
             matrisRastgeleDegerAta(b);
-
 
             Console.WriteLine("-----A Matrisi-----");
             matrisListele(a);
@@ -22,8 +20,6 @@ namespace MatrislerdeIslemler
             Console.WriteLine("\n-----Matris Çarpımı-----");
             int[,] d= ikiMatrisCarpim(a, b);
             matrisListele(d);
-
-
         }
         static void matrisRastgeleDegerAta(int[,] matris)
         {
