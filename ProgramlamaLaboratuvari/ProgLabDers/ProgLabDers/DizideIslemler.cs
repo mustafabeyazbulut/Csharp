@@ -9,7 +9,7 @@ namespace ConsoleApp1
             int[] d = new int[10];
             d = diziOlustur(1, 10);
 
-            BubbleSort(d);
+            //BubbleSort(d);
             diziEkranaYaz(d);
             Console.WriteLine();
             BinarySearch(d);
@@ -64,9 +64,6 @@ namespace ConsoleApp1
                 dizi[i] = dizi[minIndex];
                 dizi[minIndex] = temp;
             }
-
-
-
         }
         static void InsertionSort(int[] dizi)
         {
