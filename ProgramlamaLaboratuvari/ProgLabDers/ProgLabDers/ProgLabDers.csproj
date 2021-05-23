@@ -10,6 +10,7 @@
     <Compile Remove="ArraylistKullanimi.cs" />
     <Compile Remove="DictionaryFrekansOrnek.cs" />
     <Compile Remove="DictionaryKullanimi.cs" />
+    <Compile Remove="DizideIslemler.cs" />
     <Compile Remove="DiziTanimlama.cs" />
     <Compile Remove="EkranaSayiGirmekYazdirmak.cs" />
     <Compile Remove="MatrislerdeIslemler.cs" />
@@ -22,6 +23,7 @@
     <None Include="ArraylistKullanimi.cs" />
     <None Include="DictionaryFrekansOrnek.cs" />
     <None Include="DictionaryKullanimi.cs" />
+    <None Include="DizideIslemler.cs" />
     <None Include="DiziTanimlama.cs" />
     <None Include="EkranaSayiGirmekYazdirmak.cs" />
     <None Include="MatrislerdeIslemler.cs" />
