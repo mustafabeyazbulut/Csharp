@@ -9,31 +9,59 @@ namespace MatrislerdeIslemler
             int[,] a = new int[4, 2];
             int[,] b = new int[2, 3];
 
-            Console.Write("Dizinin Boyutunu Giriniz :");
-            int n = int.Parse(Console.ReadLine());
-            int[,] c = new int[n, n];
+
 
             matrisRastgeleDegerAta(a);
             matrisRastgeleDegerAta(b);
-            matrisRastgeleDegerAta(c);
+            
 
             Console.WriteLine("-----A Matrisi-----");
             matrisListele(a);
             Console.WriteLine("\n-----B Matrisi-----");
             matrisListele(b);
-            Console.WriteLine("\n-----c Matrisi-----");
-            matrisListele(c);
+
 
 
             //Console.WriteLine("\n-----Matris Çarpımı-----");
             //int[,] d= ikiMatrisCarpim(a, b);
             //matrisListele(d);
 
-            matriscapraztoplam(c);
+            // matriscapraztoplam();
+            matrisTranspoz();
 
         }
-        static void matriscapraztoplam(int[,] dizi)
+        static void matrisTranspoz()
         {
+            int n = 5;
+            int m = 3;
+            int[,] dizi = new int[n, m];
+
+            matrisRastgeleDegerAta(dizi);
+            Console.WriteLine("\n-----Matris-----");
+            matrisListele(dizi);
+
+            int[,] T = new int[m, n];
+
+            for (int i = 0; i < n; i++)
+                for (int j = 0; j < m; j++)
+                    T[j, i] = dizi[i, j];
+
+            Console.WriteLine("\n-----Matris Transpozu-----");
+            matrisListele(T);
+
+
+        }
+        static void matriscapraztoplam()
+        {
+            Console.WriteLine();
+            Console.Write("Dizinin Boyutunu Giriniz :");
+            int n = int.Parse(Console.ReadLine());
+            int[,] dizi = new int[n, n];
+
+            matrisRastgeleDegerAta(dizi);
+            Console.WriteLine("\n-----Matris<-----");
+            matrisListele(dizi);
+
             int toplam = new int();
             Console.WriteLine();
 
@@ -53,6 +81,13 @@ namespace MatrislerdeIslemler
 
             Console.WriteLine();
             Console.WriteLine("Toplam :" + toplam);
+
+
+           /* int top = 0;
+            for (int j = 1; j <= (n / 2); j++)
+                for (int i = j; i <= n - (j + 1); i++)
+                    top += dizi[i, j - 1] + dizi[i, n - j];Hocanın çözüm */
+
         }
         static void matrisRastgeleDegerAta(int[,] matris)
         {
