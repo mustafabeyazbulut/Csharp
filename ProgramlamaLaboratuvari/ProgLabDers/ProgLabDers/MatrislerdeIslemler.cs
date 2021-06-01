@@ -9,17 +9,50 @@ namespace MatrislerdeIslemler
             int[,] a = new int[4, 2];
             int[,] b = new int[2, 3];
 
+            Console.Write("Dizinin Boyutunu Giriniz :");
+            int n = int.Parse(Console.ReadLine());
+            int[,] c = new int[n, n];
+
             matrisRastgeleDegerAta(a);
             matrisRastgeleDegerAta(b);
+            matrisRastgeleDegerAta(c);
 
             Console.WriteLine("-----A Matrisi-----");
             matrisListele(a);
             Console.WriteLine("\n-----B Matrisi-----");
             matrisListele(b);
+            Console.WriteLine("\n-----c Matrisi-----");
+            matrisListele(c);
 
-            Console.WriteLine("\n-----Matris Çarpımı-----");
-            int[,] d= ikiMatrisCarpim(a, b);
-            matrisListele(d);
+
+            //Console.WriteLine("\n-----Matris Çarpımı-----");
+            //int[,] d= ikiMatrisCarpim(a, b);
+            //matrisListele(d);
+
+            matriscapraztoplam(c);
+
+        }
+        static void matriscapraztoplam(int[,] dizi)
+        {
+            int toplam = new int();
+            Console.WriteLine();
+
+            for (int i = 0; i < dizi.GetLength(0); i++)
+            {
+                for (int j = 0; j < dizi.GetLength(0); j++)
+                {
+                    if (i == j || j == (dizi.GetLength(0) - i - 1))
+                    {
+                        Console.Write(dizi[i, j]);
+                        toplam = toplam + dizi[i, j];
+                    }
+                    else Console.Write(" ");
+                }
+                Console.WriteLine();
+            }
+
+            Console.WriteLine();
+            Console.WriteLine("Toplam :" + toplam);
         }
         static void matrisRastgeleDegerAta(int[,] matris)
         {
