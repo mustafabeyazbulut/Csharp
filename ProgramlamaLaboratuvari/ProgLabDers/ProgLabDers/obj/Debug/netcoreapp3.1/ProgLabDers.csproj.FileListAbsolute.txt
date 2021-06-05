@@ -4,10 +4,10 @@ C:\Users\mustafa\Documents\GitHub\Csharp\ProgramlamaLaboratuvari\ProgLabDers\Pro
 C:\Users\mustafa\Documents\GitHub\Csharp\ProgramlamaLaboratuvari\ProgLabDers\ProgLabDers\bin\Debug\netcoreapp3.1\ProgLabDers.runtimeconfig.dev.json
 C:\Users\mustafa\Documents\GitHub\Csharp\ProgramlamaLaboratuvari\ProgLabDers\ProgLabDers\bin\Debug\netcoreapp3.1\ProgLabDers.dll
 C:\Users\mustafa\Documents\GitHub\Csharp\ProgramlamaLaboratuvari\ProgLabDers\ProgLabDers\bin\Debug\netcoreapp3.1\ProgLabDers.pdb
-C:\Users\mustafa\Documents\GitHub\Csharp\ProgramlamaLaboratuvari\ProgLabDers\ProgLabDers\obj\Debug\netcoreapp3.1\ProgLabDers.csprojAssemblyReference.cache
 C:\Users\mustafa\Documents\GitHub\Csharp\ProgramlamaLaboratuvari\ProgLabDers\ProgLabDers\obj\Debug\netcoreapp3.1\ProgLabDers.AssemblyInfoInputs.cache
 C:\Users\mustafa\Documents\GitHub\Csharp\ProgramlamaLaboratuvari\ProgLabDers\ProgLabDers\obj\Debug\netcoreapp3.1\ProgLabDers.AssemblyInfo.cs
 C:\Users\mustafa\Documents\GitHub\Csharp\ProgramlamaLaboratuvari\ProgLabDers\ProgLabDers\obj\Debug\netcoreapp3.1\ProgLabDers.csproj.CoreCompileInputs.cache
 C:\Users\mustafa\Documents\GitHub\Csharp\ProgramlamaLaboratuvari\ProgLabDers\ProgLabDers\obj\Debug\netcoreapp3.1\ProgLabDers.dll
 C:\Users\mustafa\Documents\GitHub\Csharp\ProgramlamaLaboratuvari\ProgLabDers\ProgLabDers\obj\Debug\netcoreapp3.1\ProgLabDers.pdb
 C:\Users\mustafa\Documents\GitHub\Csharp\ProgramlamaLaboratuvari\ProgLabDers\ProgLabDers\obj\Debug\netcoreapp3.1\ProgLabDers.genruntimeconfig.cache
+C:\Users\mustafa\Documents\GitHub\Csharp\ProgramlamaLaboratuvari\ProgLabDers\ProgLabDers\obj\Debug\netcoreapp3.1\ProgLabDers.csproj.AssemblyReference.cache
