@@ -1,0 +1,13 @@
+C:\Users\engin\source\repos\ProgLab12\ProgLab12\bin\Debug\netcoreapp3.1\ProgLab12.exe
+C:\Users\engin\source\repos\ProgLab12\ProgLab12\bin\Debug\netcoreapp3.1\ProgLab12.deps.json
+C:\Users\engin\source\repos\ProgLab12\ProgLab12\bin\Debug\netcoreapp3.1\ProgLab12.runtimeconfig.json
+C:\Users\engin\source\repos\ProgLab12\ProgLab12\bin\Debug\netcoreapp3.1\ProgLab12.runtimeconfig.dev.json
+C:\Users\engin\source\repos\ProgLab12\ProgLab12\bin\Debug\netcoreapp3.1\ProgLab12.dll
+C:\Users\engin\source\repos\ProgLab12\ProgLab12\bin\Debug\netcoreapp3.1\ProgLab12.pdb
+C:\Users\engin\source\repos\ProgLab12\ProgLab12\obj\Debug\netcoreapp3.1\ProgLab12.csprojAssemblyReference.cache
+C:\Users\engin\source\repos\ProgLab12\ProgLab12\obj\Debug\netcoreapp3.1\ProgLab12.AssemblyInfoInputs.cache
+C:\Users\engin\source\repos\ProgLab12\ProgLab12\obj\Debug\netcoreapp3.1\ProgLab12.AssemblyInfo.cs
+C:\Users\engin\source\repos\ProgLab12\ProgLab12\obj\Debug\netcoreapp3.1\ProgLab12.csproj.CoreCompileInputs.cache
+C:\Users\engin\source\repos\ProgLab12\ProgLab12\obj\Debug\netcoreapp3.1\ProgLab12.dll
+C:\Users\engin\source\repos\ProgLab12\ProgLab12\obj\Debug\netcoreapp3.1\ProgLab12.pdb
+C:\Users\engin\source\repos\ProgLab12\ProgLab12\obj\Debug\netcoreapp3.1\ProgLab12.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\engin\source\repos\ProgLab10\ProgLab10\bin\Debug\netcoreapp3.1\ProgLab10.exe
+C:\Users\engin\source\repos\ProgLab10\ProgLab10\bin\Debug\netcoreapp3.1\ProgLab10.deps.json
+C:\Users\engin\source\repos\ProgLab10\ProgLab10\bin\Debug\netcoreapp3.1\ProgLab10.runtimeconfig.json
+C:\Users\engin\source\repos\ProgLab10\ProgLab10\bin\Debug\netcoreapp3.1\ProgLab10.runtimeconfig.dev.json
+C:\Users\engin\source\repos\ProgLab10\ProgLab10\bin\Debug\netcoreapp3.1\ProgLab10.dll
+C:\Users\engin\source\repos\ProgLab10\ProgLab10\bin\Debug\netcoreapp3.1\ProgLab10.pdb
+C:\Users\engin\source\repos\ProgLab10\ProgLab10\obj\Debug\netcoreapp3.1\ProgLab10.csprojAssemblyReference.cache
+C:\Users\engin\source\repos\ProgLab10\ProgLab10\obj\Debug\netcoreapp3.1\ProgLab10.AssemblyInfoInputs.cache
+C:\Users\engin\source\repos\ProgLab10\ProgLab10\obj\Debug\netcoreapp3.1\ProgLab10.AssemblyInfo.cs
+C:\Users\engin\source\repos\ProgLab10\ProgLab10\obj\Debug\netcoreapp3.1\ProgLab10.csproj.CoreCompileInputs.cache
+C:\Users\engin\source\repos\ProgLab10\ProgLab10\obj\Debug\netcoreapp3.1\ProgLab10.dll
+C:\Users\engin\source\repos\ProgLab10\ProgLab10\obj\Debug\netcoreapp3.1\ProgLab10.pdb
+C:\Users\engin\source\repos\ProgLab10\ProgLab10\obj\Debug\netcoreapp3.1\ProgLab10.genruntimeconfig.cache

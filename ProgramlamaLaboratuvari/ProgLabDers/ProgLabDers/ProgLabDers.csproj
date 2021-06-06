@@ -6,7 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="1-Bos - Kopyala.cs" />
     <Compile Remove="1-Bos.cs" />
     <Compile Remove="ArraylistKullanimi.cs" />
     <Compile Remove="DictionaryFrekansOrnek.cs" />
@@ -15,12 +14,13 @@
     <Compile Remove="DiziTanimlama.cs" />
     <Compile Remove="EkranaSayiGirmekYazdirmak.cs" />
     <Compile Remove="fiibsearch.cs" />
+    <Compile Remove="MatrislerdeIslemler.cs" />
     <Compile Remove="NormalveRecorsiveFonksMatislemleri.cs" />
     <Compile Remove="RastgeleSayi.cs" />
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="1-Bos - Kopyala.cs" />
+    <None Include="MatrislerdeIslemler.cs" />
     <None Include="1-Bos.cs" />
     <None Include="ArraylistKullanimi.cs" />
     <None Include="DictionaryFrekansOrnek.cs" />
