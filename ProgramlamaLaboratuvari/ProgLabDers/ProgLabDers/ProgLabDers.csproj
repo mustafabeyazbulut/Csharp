@@ -8,6 +8,7 @@
   <ItemGroup>
     <Compile Remove="1-Bos.cs" />
     <Compile Remove="ArraylistKullanimi.cs" />
+    <Compile Remove="deneme.cs" />
     <Compile Remove="DictionaryFrekansOrnek.cs" />
     <Compile Remove="DictionaryKullanimi.cs" />
     <Compile Remove="DizideIslemler.cs" />
@@ -17,13 +18,15 @@
     <Compile Remove="MatrislerdeIslemler.cs" />
     <Compile Remove="NormalveRecorsiveFonksMatislemleri.cs" />
     <Compile Remove="RastgeleSayi.cs" />
+    <Compile Remove="Stringislemler.cs" />
   </ItemGroup>
 
   <ItemGroup>
+    <Resource Include="deneme.cs" />
+    <None Include="DictionaryFrekansOrnek.cs" />
     <None Include="MatrislerdeIslemler.cs" />
     <None Include="1-Bos.cs" />
     <None Include="ArraylistKullanimi.cs" />
-    <None Include="DictionaryFrekansOrnek.cs" />
     <None Include="DictionaryKullanimi.cs" />
     <None Include="DizideIslemler.cs" />
     <None Include="DiziTanimlama.cs" />
@@ -31,6 +34,7 @@
     <None Include="fiibsearch.cs" />
     <None Include="NormalveRecorsiveFonksMatislemleri.cs" />
     <None Include="RastgeleSayi.cs" />
+    <None Include="Stringislemler.cs" />
   </ItemGroup>
 
 </Project>
