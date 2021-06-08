@@ -11,3 +11,16 @@ D:\OneDrive - comu.edu.tr\DERSLER MATERYAL\Programlama Lb\dersteki projeler\Prog
 D:\OneDrive - comu.edu.tr\DERSLER MATERYAL\Programlama Lb\dersteki projeler\ProgLab13\ProgLab13\obj\Debug\netcoreapp3.1\ProgLab13.dll
 D:\OneDrive - comu.edu.tr\DERSLER MATERYAL\Programlama Lb\dersteki projeler\ProgLab13\ProgLab13\obj\Debug\netcoreapp3.1\ProgLab13.pdb
 D:\OneDrive - comu.edu.tr\DERSLER MATERYAL\Programlama Lb\dersteki projeler\ProgLab13\ProgLab13\obj\Debug\netcoreapp3.1\ProgLab13.genruntimeconfig.cache
+C:\Users\mustafa\Documents\GitHub\Csharp\ProgramlamaLaboratuvari\string_islemler\ProgLab13\ProgLab13\bin\Debug\netcoreapp3.1\ProgLab13.exe
+C:\Users\mustafa\Documents\GitHub\Csharp\ProgramlamaLaboratuvari\string_islemler\ProgLab13\ProgLab13\bin\Debug\netcoreapp3.1\ProgLab13.deps.json
+C:\Users\mustafa\Documents\GitHub\Csharp\ProgramlamaLaboratuvari\string_islemler\ProgLab13\ProgLab13\bin\Debug\netcoreapp3.1\ProgLab13.runtimeconfig.json
+C:\Users\mustafa\Documents\GitHub\Csharp\ProgramlamaLaboratuvari\string_islemler\ProgLab13\ProgLab13\bin\Debug\netcoreapp3.1\ProgLab13.runtimeconfig.dev.json
+C:\Users\mustafa\Documents\GitHub\Csharp\ProgramlamaLaboratuvari\string_islemler\ProgLab13\ProgLab13\bin\Debug\netcoreapp3.1\ProgLab13.dll
+C:\Users\mustafa\Documents\GitHub\Csharp\ProgramlamaLaboratuvari\string_islemler\ProgLab13\ProgLab13\bin\Debug\netcoreapp3.1\ProgLab13.pdb
+C:\Users\mustafa\Documents\GitHub\Csharp\ProgramlamaLaboratuvari\string_islemler\ProgLab13\ProgLab13\obj\Debug\netcoreapp3.1\ProgLab13.csproj.AssemblyReference.cache
+C:\Users\mustafa\Documents\GitHub\Csharp\ProgramlamaLaboratuvari\string_islemler\ProgLab13\ProgLab13\obj\Debug\netcoreapp3.1\ProgLab13.AssemblyInfoInputs.cache
+C:\Users\mustafa\Documents\GitHub\Csharp\ProgramlamaLaboratuvari\string_islemler\ProgLab13\ProgLab13\obj\Debug\netcoreapp3.1\ProgLab13.AssemblyInfo.cs
+C:\Users\mustafa\Documents\GitHub\Csharp\ProgramlamaLaboratuvari\string_islemler\ProgLab13\ProgLab13\obj\Debug\netcoreapp3.1\ProgLab13.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Documents\GitHub\Csharp\ProgramlamaLaboratuvari\string_islemler\ProgLab13\ProgLab13\obj\Debug\netcoreapp3.1\ProgLab13.dll
+C:\Users\mustafa\Documents\GitHub\Csharp\ProgramlamaLaboratuvari\string_islemler\ProgLab13\ProgLab13\obj\Debug\netcoreapp3.1\ProgLab13.pdb
+C:\Users\mustafa\Documents\GitHub\Csharp\ProgramlamaLaboratuvari\string_islemler\ProgLab13\ProgLab13\obj\Debug\netcoreapp3.1\ProgLab13.genruntimeconfig.cache
