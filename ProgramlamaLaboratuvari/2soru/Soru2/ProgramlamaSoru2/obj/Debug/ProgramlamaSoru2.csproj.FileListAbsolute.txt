@@ -1,0 +1,6 @@
+C:\Users\guldo\source\repos\ProgramlamaSoru2\ProgramlamaSoru2\obj\Debug\ProgramlamaSoru2.csprojAssemblyReference.cache
+C:\Users\guldo\source\repos\ProgramlamaSoru2\ProgramlamaSoru2\bin\Debug\ProgramlamaSoru2.exe.config
+C:\Users\guldo\source\repos\ProgramlamaSoru2\ProgramlamaSoru2\bin\Debug\ProgramlamaSoru2.exe
+C:\Users\guldo\source\repos\ProgramlamaSoru2\ProgramlamaSoru2\bin\Debug\ProgramlamaSoru2.pdb
+C:\Users\guldo\source\repos\ProgramlamaSoru2\ProgramlamaSoru2\obj\Debug\ProgramlamaSoru2.exe
+C:\Users\guldo\source\repos\ProgramlamaSoru2\ProgramlamaSoru2\obj\Debug\ProgramlamaSoru2.pdb
