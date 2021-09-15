@@ -35,10 +35,7 @@ namespace ConsoleApp1
 
         }
 
-        private void Add(int v)
-        {
-            throw new NotImplementedException();
-        }
+
 
         static void diziornek()
         {

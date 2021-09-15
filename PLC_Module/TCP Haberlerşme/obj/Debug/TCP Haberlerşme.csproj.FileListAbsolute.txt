@@ -1,0 +1,24 @@
+C:\Users\Hanifi Semizoğlu\Desktop\ModBusTCP_C#_Suite\TCP Haberlerşme\bin\Debug\TCP Haberlerşme.exe.config
+C:\Users\Hanifi Semizoğlu\Desktop\ModBusTCP_C#_Suite\TCP Haberlerşme\bin\Debug\TCP Haberlerşme.exe
+C:\Users\Hanifi Semizoğlu\Desktop\ModBusTCP_C#_Suite\TCP Haberlerşme\bin\Debug\TCP Haberlerşme.pdb
+C:\Users\Hanifi Semizoğlu\Desktop\ModBusTCP_C#_Suite\TCP Haberlerşme\obj\Debug\TCP Haberlerşme.csprojAssemblyReference.cache
+C:\Users\Hanifi Semizoğlu\Desktop\ModBusTCP_C#_Suite\TCP Haberlerşme\obj\Debug\TCP_Haberlerşme.Form1.resources
+C:\Users\Hanifi Semizoğlu\Desktop\ModBusTCP_C#_Suite\TCP Haberlerşme\obj\Debug\TCP_Haberlerşme.Properties.Resources.resources
+C:\Users\Hanifi Semizoğlu\Desktop\ModBusTCP_C#_Suite\TCP Haberlerşme\obj\Debug\TCP_Haberlerşme.UserControl1.resources
+C:\Users\Hanifi Semizoğlu\Desktop\ModBusTCP_C#_Suite\TCP Haberlerşme\obj\Debug\TCP Haberlerşme.csproj.GenerateResource.cache
+C:\Users\Hanifi Semizoğlu\Desktop\ModBusTCP_C#_Suite\TCP Haberlerşme\obj\Debug\TCP Haberlerşme.csproj.CoreCompileInputs.cache
+C:\Users\Hanifi Semizoğlu\Desktop\ModBusTCP_C#_Suite\TCP Haberlerşme\obj\Debug\TCP Haberlerşme.csproj.CopyComplete
+C:\Users\Hanifi Semizoğlu\Desktop\ModBusTCP_C#_Suite\TCP Haberlerşme\obj\Debug\TCP Haberlerşme.exe
+C:\Users\Hanifi Semizoğlu\Desktop\ModBusTCP_C#_Suite\TCP Haberlerşme\obj\Debug\TCP Haberlerşme.pdb
+D:\GMTCNT_GMTSuite_ModBusTCP_C#_Demo\TCP Haberlerşme\bin\Debug\TCP Haberlerşme.exe.config
+D:\GMTCNT_GMTSuite_ModBusTCP_C#_Demo\TCP Haberlerşme\bin\Debug\TCP Haberlerşme.exe
+D:\GMTCNT_GMTSuite_ModBusTCP_C#_Demo\TCP Haberlerşme\bin\Debug\TCP Haberlerşme.pdb
+D:\GMTCNT_GMTSuite_ModBusTCP_C#_Demo\TCP Haberlerşme\obj\Debug\TCP Haberlerşme.csproj.AssemblyReference.cache
+D:\GMTCNT_GMTSuite_ModBusTCP_C#_Demo\TCP Haberlerşme\obj\Debug\TCP_Haberlerşme.Form1.resources
+D:\GMTCNT_GMTSuite_ModBusTCP_C#_Demo\TCP Haberlerşme\obj\Debug\TCP_Haberlerşme.Properties.Resources.resources
+D:\GMTCNT_GMTSuite_ModBusTCP_C#_Demo\TCP Haberlerşme\obj\Debug\TCP_Haberlerşme.UserControl1.resources
+D:\GMTCNT_GMTSuite_ModBusTCP_C#_Demo\TCP Haberlerşme\obj\Debug\TCP Haberlerşme.csproj.GenerateResource.cache
+D:\GMTCNT_GMTSuite_ModBusTCP_C#_Demo\TCP Haberlerşme\obj\Debug\TCP Haberlerşme.csproj.CoreCompileInputs.cache
+D:\GMTCNT_GMTSuite_ModBusTCP_C#_Demo\TCP Haberlerşme\obj\Debug\TCP Haberlerşme.csproj.CopyComplete
+D:\GMTCNT_GMTSuite_ModBusTCP_C#_Demo\TCP Haberlerşme\obj\Debug\TCP Haberlerşme.exe
+D:\GMTCNT_GMTSuite_ModBusTCP_C#_Demo\TCP Haberlerşme\obj\Debug\TCP Haberlerşme.pdb
