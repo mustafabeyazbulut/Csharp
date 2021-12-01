@@ -1,0 +1,10 @@
+C:\Users\mustafa\Desktop\Dersler\Görsel Programlama\MikroLcd\MikroLcd\bin\Debug\MikroLcd.exe.config
+C:\Users\mustafa\Desktop\Dersler\Görsel Programlama\MikroLcd\MikroLcd\bin\Debug\MikroLcd.exe
+C:\Users\mustafa\Desktop\Dersler\Görsel Programlama\MikroLcd\MikroLcd\bin\Debug\MikroLcd.pdb
+C:\Users\mustafa\Desktop\Dersler\Görsel Programlama\MikroLcd\MikroLcd\obj\Debug\MikroLcd.csproj.AssemblyReference.cache
+C:\Users\mustafa\Desktop\Dersler\Görsel Programlama\MikroLcd\MikroLcd\obj\Debug\MikroLcd.Form1.resources
+C:\Users\mustafa\Desktop\Dersler\Görsel Programlama\MikroLcd\MikroLcd\obj\Debug\MikroLcd.Properties.Resources.resources
+C:\Users\mustafa\Desktop\Dersler\Görsel Programlama\MikroLcd\MikroLcd\obj\Debug\MikroLcd.csproj.GenerateResource.cache
+C:\Users\mustafa\Desktop\Dersler\Görsel Programlama\MikroLcd\MikroLcd\obj\Debug\MikroLcd.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\Dersler\Görsel Programlama\MikroLcd\MikroLcd\obj\Debug\MikroLcd.exe
+C:\Users\mustafa\Desktop\Dersler\Görsel Programlama\MikroLcd\MikroLcd\obj\Debug\MikroLcd.pdb
