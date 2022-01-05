@@ -39,13 +39,12 @@ namespace MikroLcd
                 else //ilk seçildiğinde
                 {
                     currentButton.BackColor = Color.FromArgb(24, 30, 54);
-                    currentButton.ForeColor = Color.White;
+                    
 
                     lbl.Text = (Convert.ToInt32(lbl.Text) + deger).ToString();
                 }
 
                 lblalt.Text = lbl.Text;
-
             }
         }
         private void DisableButton()
@@ -68,9 +67,8 @@ namespace MikroLcd
                 if (currentButton != (Button)btnSender)
                 {
                     DisableButtonAlt();
-                    Color color = Color.FromArgb(24, 30, 54);
                     currentButton = (Button)btnSender;
-                    currentButton.BackColor = color;
+                    currentButton.BackColor = Color.FromArgb(24, 30, 54);
                     currentButton.ForeColor = Color.White;
                     lbl20.Text = currentButton.Text;
                     //  currentButton.Font = new System.Drawing.Font("Tahoma", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
